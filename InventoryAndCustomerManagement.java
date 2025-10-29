@@ -39,7 +39,7 @@ public class InventoryAndCustomerManagement {
 	private static final int RETURN_MAIN = 6;
 	
 	
-	private static final String FILE_DIRECTORY = "c:\\test\\";
+	private static final String FILE_DIRECTORY = "c:\\test\\";	//the directory will be ' c:\test\ '
 	
 	private static final String CUSTOMER_FILE_NAME = "CustFile.txt";
 	
@@ -1012,3 +1012,4 @@ public class InventoryAndCustomerManagement {
 	
 	
 }	//end of class
+
